@@ -1,6 +1,6 @@
 # E-commerce Automation Testing Framework
 About The Project 
-Welcome to the Open Cart E-commerce Automation Framework! This project aims to automate user interactions on the Open Cart e-commerce platform. We're using Selenium WebDriver for browser automation, Python as the binding language,and Pytest for test management. The framework follows the Page Object Model (POM).
+Welcome to the Open Cart E-commerce Automation Framework! This project aims to automate user interactions on the Open Cart e-commerce platform. We are using Selenium WebDriver for browser automation, Python as the binding language,and Pytest for test management. The framework follows the Page Object Model (POM).
 
 Why This Project is Useful 
 Maintainability: By following the Page Object Model, the code is organized and easy to update.
